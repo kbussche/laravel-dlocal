@@ -1,0 +1,14 @@
+{
+    "name": "dwerp-io/laravel-dlocal",
+    "description": "Dlocal Astropay streamline API library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "php": "7.2"
+    },
+    "authors": [
+        {
+            "name": "Kurt Bussche",
+            "email": "kbussche@gmail.com"
+        }
+    ]
+}
